@@ -12,7 +12,7 @@
 <br>
 
 ## status :
-- In python 🐍
+- python 🐍
 - Still exploring 🥲
 - Still Learning
 - Youtuber 😇
